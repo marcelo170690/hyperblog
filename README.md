@@ -10,6 +10,8 @@ un blog comico para el curso de git y github de platzy
 * Trucos muy locos del profe
 * Las personalidades multiples de pinche fredy
 * Creado por el increible 7binary
+* Incliye ejemplos en windows linux y mac
+* Disponible para todas las edades
 
 Y como amable recordatorio:
 **Este readme.md es un chiste** Diseñado para el ejemplo. Si llegas aca NO TE LO TOMES EN SERIO y ve a ver el curso. y [**Mi portafolio**](https://marcelo.team7binary.com).
